@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: inline-block;
+  background-color: #f0e9b1;
+}
+
+.box1 {
+  background-color: #edda3e;
+  color: black;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  margin-top: -45px;
+  margin-left: -75px;
+  height: 90px;
+  width: 150px;
+}
+
+.box2 {
+  background-color: #a1921a;
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -45px;
+  margin-left: -75px;
+  height: 90px;
+  width: 150px;
+}
+
+.box3 {
+  background-color: #5c5411;
+  color: black;
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  margin-top: -45px;
+  margin-left: -75px;
+  height: 90px;
+  width: 150px;
+}
